@@ -1,0 +1,1 @@
+var json_PasarCiroyom_18 = {"type":"FeatureCollection","name":"PasarCiroyom_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"X":107.5879,"Y":-6.91425,"Kelurahan":"Ciroyom","Kecamatan":"Andir"},"geometry":{"type":"Point","coordinates":[107.58789899999195,-6.914253999999846]}}]}

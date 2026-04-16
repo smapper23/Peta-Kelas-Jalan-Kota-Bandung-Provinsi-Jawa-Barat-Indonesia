@@ -1,0 +1,1 @@
+var json_PasarAstanaanyar_19 = {"type":"FeatureCollection","name":"PasarAstanaanyar_19","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"X":107.60075,"Y":-6.93081,"Kelurahan":"Nyengseret","Kecamatan":"Astanaanyar"},"geometry":{"type":"Point","coordinates":[107.600754499991666,-6.930806199999838]}}]}

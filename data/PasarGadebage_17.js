@@ -1,0 +1,1 @@
+var json_PasarGadebage_17 = {"type":"FeatureCollection","name":"PasarGadebage_17","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"X":107.69707,"Y":-6.93081,"Kelurahan":"Mekar Mulya","Kecamatan":"Panyileukan"},"geometry":{"type":"Point","coordinates":[107.697070999989236,-6.930810999999779]}}]}
